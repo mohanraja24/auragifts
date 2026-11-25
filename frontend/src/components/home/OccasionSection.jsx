@@ -48,7 +48,7 @@ export default function OccasionSection() {
       tagline: 'Playful Surprises for Loved Ones',
       description: 'Adorable black & white cuddle panda soft toys, perfect for kids, birthdays, and sweethearts.',
       category: 'birthday-gifts',
-      image: 'https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?auto=format&fit=crop&w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1593433684254-99145b2e58b6?auto=format&fit=crop&w=800&q=80',
       badge: 'Trending Cute Gift',
       itemCount: '65+ Panda Toys',
       features: ['Super Soft Plush', 'Fluffy Cotton Fill', 'Gift Box Packed'],

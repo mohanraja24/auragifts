@@ -75,7 +75,7 @@ export default function PersonalizedHighlights() {
             <div className="lg:col-span-5">
               <div className="relative mx-auto max-w-sm rounded-2xl overflow-hidden shadow-2xl border-4 border-white/20">
                 <img
-                  src="https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&w=700&q=80"
+                  src="https://images.unsplash.com/photo-1513885535751-8b9238bd345a?auto=format&fit=crop&w=700&q=80"
                   alt="Personalized gifts demonstration"
                   className="w-full h-80 object-cover"
                 />
